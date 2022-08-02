@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-22,
+				-432
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "illo idle"
+		},
+		{
+			"offsets": [
+				178,
+				-475
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "illo up"
+		},
+		{
+			"offsets": [
+				30,
+				-450
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "illo left"
+		},
+		{
+			"offsets": [
+				-13,
+				-573
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "illo down"
+		},
+		{
+			"offsets": [
+				12,
+				-454
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "illo right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/illo",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "nillo",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		151,
+		48
+	],
+	"camera_position": [
+		-130,
+		520
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
