@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menu_credits.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Credits basic0000" x="0" y="0" width="445" height="109"/>
+	<SubTexture name="Credits basic0001" x="0" y="0" width="445" height="109"/>
+	<SubTexture name="Credits basic0002" x="0" y="0" width="445" height="109"/>
+	<SubTexture name="Credits basic0003" x="445" y="0" width="445" height="109"/>
+	<SubTexture name="Credits basic0004" x="445" y="0" width="445" height="109"/>
+	<SubTexture name="Credits basic0005" x="445" y="0" width="445" height="109"/>
+	<SubTexture name="Credits basic0006" x="0" y="109" width="445" height="109"/>
+	<SubTexture name="Credits basic0007" x="0" y="109" width="445" height="109"/>
+	<SubTexture name="Credits basic0008" x="0" y="109" width="445" height="109"/>
+	<SubTexture name="Credits highlight0000" x="445" y="109" width="445" height="109"/>
+	<SubTexture name="Credits highlight0001" x="445" y="109" width="445" height="109"/>
+	<SubTexture name="Credits highlight0002" x="445" y="109" width="445" height="109"/>
+	<SubTexture name="Credits highlight0003" x="0" y="218" width="445" height="109"/>
+	<SubTexture name="Credits highlight0004" x="0" y="218" width="445" height="109"/>
+	<SubTexture name="Credits highlight0005" x="0" y="218" width="445" height="109"/>
+	<SubTexture name="Credits highlight0006" x="445" y="218" width="445" height="109"/>
+	<SubTexture name="Credits highlight0007" x="445" y="218" width="445" height="109"/>
+	<SubTexture name="Credits highlight0008" x="445" y="218" width="445" height="109"/>
+</TextureAtlas>

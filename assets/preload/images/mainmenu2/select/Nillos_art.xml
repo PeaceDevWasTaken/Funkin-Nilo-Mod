@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Nillos_art.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Nillo's art0000" x="0" y="0" width="420" height="89"/>
+	<SubTexture name="Nillo's art0001" x="0" y="0" width="420" height="89"/>
+	<SubTexture name="Nillo's art0002" x="0" y="0" width="420" height="89"/>
+	<SubTexture name="Nillo's art0003" x="420" y="0" width="420" height="89"/>
+	<SubTexture name="Nillo's art0004" x="420" y="0" width="420" height="89"/>
+	<SubTexture name="Nillo's art0005" x="420" y="0" width="420" height="89"/>
+	<SubTexture name="Nillo's art0006" x="0" y="89" width="420" height="89"/>
+	<SubTexture name="Nillo's art0007" x="0" y="89" width="420" height="89"/>
+	<SubTexture name="Nillo's art0008" x="0" y="89" width="420" height="89"/>
+	<SubTexture name="Nillo's art highlight0000" x="420" y="89" width="420" height="89"/>
+	<SubTexture name="Nillo's art highlight0001" x="420" y="89" width="420" height="89"/>
+	<SubTexture name="Nillo's art highlight0002" x="420" y="89" width="420" height="89"/>
+	<SubTexture name="Nillo's art highlight0003" x="0" y="178" width="420" height="89"/>
+	<SubTexture name="Nillo's art highlight0004" x="0" y="178" width="420" height="89"/>
+	<SubTexture name="Nillo's art highlight0005" x="0" y="178" width="420" height="89"/>
+	<SubTexture name="Nillo's art highlight0006" x="420" y="178" width="420" height="89"/>
+	<SubTexture name="Nillo's art highlight0007" x="420" y="178" width="420" height="89"/>
+	<SubTexture name="Nillo's art highlight0008" x="420" y="178" width="420" height="89"/>
+</TextureAtlas>

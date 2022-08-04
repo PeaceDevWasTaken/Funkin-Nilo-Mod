@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menu_story_mode.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Play basic0000" x="0" y="0" width="613" height="206"/>
+	<SubTexture name="Play basic0001" x="0" y="0" width="613" height="206"/>
+	<SubTexture name="Play basic0002" x="0" y="0" width="613" height="206"/>
+	<SubTexture name="Play basic0003" x="613" y="0" width="613" height="206"/>
+	<SubTexture name="Play basic0004" x="613" y="0" width="613" height="206"/>
+	<SubTexture name="Play basic0005" x="613" y="0" width="613" height="206"/>
+	<SubTexture name="Play basic0006" x="613" y="0" width="613" height="206"/>
+	<SubTexture name="Play basic0007" x="613" y="0" width="613" height="206"/>
+	<SubTexture name="Play basic0008" x="613" y="0" width="613" height="206"/>
+	<SubTexture name="Play highlight0000" x="1226" y="0" width="613" height="206"/>
+	<SubTexture name="Play highlight0001" x="1226" y="0" width="613" height="206"/>
+	<SubTexture name="Play highlight0002" x="1226" y="0" width="613" height="206"/>
+	<SubTexture name="Play highlight0003" x="0" y="206" width="613" height="206"/>
+	<SubTexture name="Play highlight0004" x="0" y="206" width="613" height="206"/>
+	<SubTexture name="Play highlight0005" x="0" y="206" width="613" height="206"/>
+	<SubTexture name="Play highlight0006" x="613" y="206" width="613" height="206"/>
+	<SubTexture name="Play highlight0007" x="613" y="206" width="613" height="206"/>
+	<SubTexture name="Play highlight0008" x="613" y="206" width="613" height="206"/>
+</TextureAtlas>
